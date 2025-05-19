@@ -1,3 +1,5 @@
 cairocffi>=1.4.0
 pangocffi>=0.4.0
 pangocairocffi>=0.2.0
+qrcode[pil]>=8.2.0
+Pillow>=10.0.0
